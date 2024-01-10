@@ -32,5 +32,4 @@ Mis *alias* favoritos de la Terminal
 [blog]: https://www.instagram.com/
 
 ```bash
-RUTA LOCAL
-[Mi ruta local](http://localhost:8080/viriolvera/index.html)```
+VOM 
